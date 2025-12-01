@@ -6,3 +6,5 @@
 计网/书/计算机网络[[:space:]](第8版)-谢希仁.pdf filter=lfs diff=lfs merge=lfs -text
 计网/书/计算机网络释疑与习题解答（第7版[[:space:]]).pdf filter=lfs diff=lfs merge=lfs -text
 软分/UML2面向对象分析与设计.pdf filter=lfs diff=lfs merge=lfs -text
+编译/书/编译技术.pdf filter=lfs diff=lfs merge=lfs -text
+编译/编译原理.zip filter=lfs diff=lfs merge=lfs -text
