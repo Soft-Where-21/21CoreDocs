@@ -2,3 +2,6 @@
 分布式/书/分布式系统概念与设计+原书第5版.pdf filter=lfs diff=lfs merge=lfs -text
 分布式/书/系统编程[[:space:]]分布式应用的设计与开发.pdf filter=lfs diff=lfs merge=lfs -text
 分布式/**/*.pdf filter=lfs diff=lfs merge=lfs -text
+计网/书/2026计算机网络_带书签【公众号：研料库，料最全】.pdf filter=lfs diff=lfs merge=lfs -text
+计网/书/计算机网络[[:space:]](第8版)-谢希仁.pdf filter=lfs diff=lfs merge=lfs -text
+计网/书/计算机网络释疑与习题解答（第7版[[:space:]]).pdf filter=lfs diff=lfs merge=lfs -text
