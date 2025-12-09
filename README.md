@@ -4,7 +4,7 @@
 ## 📚 各学期资料目录
 
 ### [大二上（Second Autumn）](https://github.com/Soft-Where-21/21CoreDocs/tree/second-autumn)
-Second-Autumn/
+```Second-Autumn/
 ├── Java
 ├── 基物
 ├── 概统
@@ -12,9 +12,10 @@ Second-Autumn/
 ├── 算法
 ├── 系统编程
 └── 计算机硬件基础
+```
 
 ### [大二下（Second Spring）](https://github.com/Soft-Where-21/21CoreDocs/tree/second-spring)
-Second-Spring/
+```Second-Spring/
 ├── 人工智能
 ├── 信号处理基础
 ├── 军理
@@ -25,9 +26,10 @@ Second-Spring/
 ├── 社会计算
 ├── 离散三
 └── 软工
+```
 
 ### [大三上（Third Autumn）](https://github.com/Soft-Where-21/21CoreDocs/tree/third-autumn)
-Third-Autumn/
+```Third-Autumn/
 ├── 分布式
 ├── 数电
 ├── 军理
@@ -37,9 +39,10 @@ Third-Autumn/
 ├── 计算机辅助设计
 ├── 计网
 └── 软分
+```
 
 ### [大三下（Third Spring）](https://github.com/Soft-Where-21/21CoreDocs/tree/third-spring)
-Third-Spring/
+```Third-Spring/
 ├── Java EE
 ├── 三创
 ├── 分布式
@@ -50,3 +53,4 @@ Third-Spring/
 ├── 并行
 ├── 物联网
 └── 科技写作
+```
