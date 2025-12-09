@@ -2,7 +2,7 @@
 
 ### [大二上（Second Autumn）](https://github.com/Soft-Where-21/21CoreDocs/tree/second-autumn)
 ```Second-Autumn/
-├── Java
+├── 面向对象程序设计(Java)
 ├── 基础物理实验
 ├── 概率统计
 ├── 离散数学（2）
@@ -48,5 +48,8 @@
 ├── 嵌入式
 ├── 并行
 ├── 物联网
+├── 经济管理
+├── 软件测试
+├── 软件过程与质量
 └── 科技写作
 ```
