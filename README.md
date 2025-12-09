@@ -1,15 +1,12 @@
-# Core-docs  
-存放学习资料的核心仓库
-
-## 📚 各学期资料目录
+## 📚 软件学院各学期学科资料目录
 
 ### [大二上（Second Autumn）](https://github.com/Soft-Where-21/21CoreDocs/tree/second-autumn)
 ```Second-Autumn/
 ├── Java
-├── 基物
-├── 概统
-├── 离散二
-├── 算法
+├── 基础物理实验
+├── 概率统计
+├── 离散数学（2）
+├── 算法设计与分析
 ├── 系统编程
 └── 计算机硬件基础
 ```
@@ -18,27 +15,26 @@
 ```Second-Spring/
 ├── 人工智能
 ├── 信号处理基础
-├── 军理
+├── 军事理论
 ├── 工程伦理与沟通
 ├── 操作系统
 ├── 数学建模
-├── 数据库
+├── 数据库管理技术
 ├── 社会计算
-├── 离散三
-└── 软工
+├── 离散数学（3）
+└── 软件工程基础
 ```
 
 ### [大三上（Third Autumn）](https://github.com/Soft-Where-21/21CoreDocs/tree/third-autumn)
 ```Third-Autumn/
-├── 分布式
+├── 分布式系统
 ├── 数电
-├── 军理
 ├── 智能计算机基础及应用
-├── 编译
+├── 编译技术
 ├── 网络存储
 ├── 计算机辅助设计
-├── 计网
-└── 软分
+├── 计算机网络
+└── 软件系统分析与设计
 ```
 
 ### [大三下（Third Spring）](https://github.com/Soft-Where-21/21CoreDocs/tree/third-spring)
